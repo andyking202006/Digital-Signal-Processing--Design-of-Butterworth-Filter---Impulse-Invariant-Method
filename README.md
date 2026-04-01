@@ -53,4 +53,4 @@ title('magnitude response butterworth LPF');
 <img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/5fecbcff-713a-4227-ba3a-542f80bd9ca0" />
 
 ## RESULT:
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f128128-b3f1-4adc-aba5-2ba5bfd2b964" />
+![DSP picccie](https://github.com/user-attachments/assets/691d6d79-e573-411c-a52f-826477024b48)
