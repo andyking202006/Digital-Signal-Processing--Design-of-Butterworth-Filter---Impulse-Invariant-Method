@@ -2,7 +2,7 @@
 ## AIM:
 To design of 2nd order Low Pass Butterworth Filter using using Impulse Invariant Transformation 
 ## SOFTWARE REQUIRED: 
-MAT LAB R2012
+MAT LAB R2024
 ## ALGORITHM:
 Step 1: Open MAT LAB. Write the program. 
 
